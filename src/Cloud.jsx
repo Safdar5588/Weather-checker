@@ -21,7 +21,7 @@ function Cloud() {
     return (
         <>
             <div className="countainer">
-            <h2>Weather Checker</h2>
+
                 <div className="input-field">
                     <input
                         placeholder="Enter City"
