@@ -28,7 +28,7 @@ function Cloud() {
                         onChange={getData}
                     />
                     <button onClick={fetchData}>Search</button>
-                </div>
+                </div>  
                 <div className="show-Information">
                     {
                         data && data.weather?
